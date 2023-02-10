@@ -5,7 +5,18 @@
 
 Hello.
 
-<p> This is a pragraph with an edaesygl dvc.</p>
+<style>
+.blue {
+    color: blue;
+    font-weight: 700;
+    font-size: 30px;
+}
+</style>
+
+<h1 class="blue">
+Hello.
+</h1>
+
 <style>
 .snippet {
 	margin-bottom: 20px;
@@ -23,3 +34,5 @@ Hello.
 💡
 <p>Here is a message.</p>
 </div>
+
+<p>Back to a regular paragraph.
