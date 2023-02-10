@@ -35,5 +35,5 @@ Hello.
 <p>Here is a message.</p>
 </div>
 
-<p>Back to a regular paragraph. <a href="https://example.com">Website</a>
+<p>Back to a regular paragraph. <a href="anotherpage.md">SPECIAL LINK</a></p>
 
