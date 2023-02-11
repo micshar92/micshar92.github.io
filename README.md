@@ -1,10 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="style.css">
   </head>
-	
+
+<style>
 @font-face {
   font-family: "Avenir-Black";
   src: url('../Avenir-Black.otf');
@@ -20,6 +20,7 @@
   src: url('../Palatino.ttf');
   font-weight: normal;
   font-style: normal;
+</style>
 
   <body>
 
@@ -67,3 +68,5 @@ Hello.
 
 <p>Back to a regular paragraph. <a href="anotherpage.md">SPECIAL LINK</a></p>
 
+</body>
+</html>
