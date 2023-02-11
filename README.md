@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css">
+  </head>
+	
+@font-face {
+  font-family: "Avenir-Black";
+  src: url('../Avenir-Black.otf');
+  font-weight: normal;
+  font-style: normal;
+@font-face {
+  font-family: "Avenir-Roman";
+  src: url('../Avenir-Roman.otf');
+  font-weight: normal;
+  font-style: normal;
+@font-face {
+  font-family: "Palatino.ttf";
+  src: url('../Palatino.ttf');
+  font-weight: normal;
+  font-style: normal;
+
+  <body>
+
+
+
+
+
+
 # Michael Sharber: Technical Writer for hire
 ## and small engine specialist
 
