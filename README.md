@@ -58,7 +58,9 @@
 Hello!
 </h1>
 
-IMAGEOFSELFGOESHERE
+<center>
+![LinkedIn Profile pic 2023](https://user-images.githubusercontent.com/112581105/218575445-f943bfd4-63ab-4f02-9b12-f01332bcadda.jpg)
+</center>
 
 <br>
 
@@ -73,9 +75,13 @@ IMAGEOFSELFGOESHERE
 
 🏭 I aim to be a manufacturing or industrial technical writer, because I'D PREFER TO WORK ON SITE 😮
 
+📚 To learn more about me, books I've read, and courses I've taken, check my About page.
+
+🧶 My work samples page includes my technical writing  certification and projects I built to get it.
+
 🌱 See my skills page for software I've learned, coding languages I use, and nifty progress bars.
 
-📄 For the condensed version, read my résumé.
+📄 And for the condensed version, read my résumé.
 
 🔌 Or network with me on LinkedIn here.
 
@@ -83,10 +89,6 @@ IMAGEOFSELFGOESHERE
 
 
 
-
-<br>
-
-Some quick facts...
 
 
 
