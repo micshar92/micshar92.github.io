@@ -45,8 +45,8 @@
 <div class="header">
 <center>
 <a href="work-samples.md">Work samples</a>
-<a href="list-o-skills.md">Skills</a>
-<a href="contact-me.md">Contact me</a>
+<a href="List-o-skills.md">Skills</a>
+<a href="ContactMe.md">Contact me</a>
 </center>
 </div>
 

@@ -8,99 +8,16 @@
   gtag('config', 'G-DJE02LDJ6H');
 </script>
 
-
-
-
-<style>
-section {
-  padding: 30 0 50 0px;
-  margin-left: 20px;
-  margin-top: 70px;
-}
-
-
-/*--------------COLUMNS*/
-/* Main Section Headings and sub headings */
-article .columnar ~ h2,
-article .columnar ~ h2 + p {
-    width: 100%;
-    clear: both;
-}
-
-/* Columns */
-article .columnar ~ h3,
-article .columnar ~ p,
-article .columnar ~ .bar {
-    width: 50%;
-}
-
-/* Left Column */
-article .columnar ~ h3,
-article .columnar ~ p {
-    float: left;
-    box-sizing: border-box;
-    padding-right: 1rem;
-    clear: both;
-}
-
-/* Right Column */
-article .columnar ~ .bar {
-    float: right;
-    clear: right;
-    margin-bottom: 1rem;
-}
-
-/* Reset */
-article .oneline ~ p,
-article .oneline ~ h3,
-article .oneline ~ .bar {
-    width: auto;
-    float: none;
-    clear: none;
-}
-
-.oneline {
-    clear: both;
-}
-
-@media print, screen and (max-width: 580px) {
-
-/*----------------------------
-    Two column layout media
-  ---------------------------*/
-  
-article .columnar ~ h3,
-article .columnar ~ p,
-article .columnar ~ .bar {
-    width: 100%;
-    float: none;
-    clear: none;
-}
-
-}
-
-.oneline ~ p {
-    font-style: normal;
-    font-size: 1rem;
-}
-</style>
-
-
-
-
 # This is purely a list of skills, not how I used tools.
 
 My <a href="work-samples.md">work samples</a> show use cases.
 
 ---
 
-<STYLE FOR CURRENTLY LEARNING SECTION
-
-
 <br>
 
 <h3>
-<center> Currently learning: Pandoc
+<center> Currently learning: DITA XML & Oxygen XML
 </center>
 </h3>
 
@@ -108,37 +25,37 @@ My <a href="work-samples.md">work samples</a> show use cases.
 
 ---
 
+( *nothing is 100% because I always have more to learn* )
 
-<div class="columnar">
+| Skill | Experience |
+| ----- | ---------- |
+| Canva | <progress max="100" value="97"></progress> |
+| cGMP | <progress max="100" value="95"></progress> |
+| SOP | <progress max="100" value="95"></progress> |
+| process flow | <progress max="100" value="95"></progress> |
+| Markdown (dillinger.io) | <progress max="100" value="95"></progress> |
+| Google suite | <progress max="100" value="95"></progress> |
+| Industrial safety | <progress max="100" value="90"></progress> |
+| Blogging (knowledge base articles) | <progress max="100" value="90"></progress> |
+| Clickup | <progress max="100" value="90"></progress> |
+| Flowcharts (draw.io) | <progress max="100" value="90"></progress> |
+| Snagit | <progress max="100" value="90"></progress> |
+| Wordpress | <progress max="100" value="90"></progress> |
+| Policies and procedures | <progress max="100" value="80"></progress> |
+| HTML | <progress max="100" value="75"></progress> |
+| Command line (CLI) | <progress max="100" value="75"></progress> |
+| Typography | <progress max="100" value="75"></progress> |
+| Content management | <progress max="100" value="75"></progress> |
+| Git and GitHub | <progress max="100" value="70"></progress> |
+| CSS | <progress max="100" value="50"></progress> |
+| Google Analytics | <progress max="100" value="50"></progress> |
+| Oxygen XML | <progress max="100" value="10"></progress> |
+| DITA XML | <progress max="100" value="1"></progress> |
+| Pandoc | <progress max="100" value="1"></progress> |
 
+<br>
 
-<label>cGMP</label>
-<progress id="elements" max="100" value="100"></progress>
+I look forward to bettering my skills and usefulness with you.
+<a href="contact-me.md">Contact me on this page.</a>
 
-	SOP
-	process flow
-	policy / procedure	?
-	Git / Github
-	HTML
-	CSS
-	DITA XML
-	Pandoc
-	Markdown (dillinger.io)
-	Google suite
-	command line (CLI)
-	safety			Was on the safety committee at FedEx.
-	compliance
-	write & variations
-	documentation
-	blog
-	Clickup
-	Oxygen XML
-	flowcharts (draw.io)
-	Snagit
-	wordpress
-	Visual Studio Code
-	canva
-	google analytics
-	typography
-	format
-	content management
+---
