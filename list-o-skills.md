@@ -11,9 +11,82 @@
 
 
 
+<style>
+section {
+  padding: 30 0 50 0px;
+  margin-left: 20px;
+  margin-top: 70px;
+}
 
 
-Hello World
+/*--------------COLUMNS*/
+/* Main Section Headings and sub headings */
+article .columnar ~ h2,
+article .columnar ~ h2 + p {
+    width: 100%;
+    clear: both;
+}
+
+/* Columns */
+article .columnar ~ h3,
+article .columnar ~ p,
+article .columnar ~ .bar {
+    width: 50%;
+}
+
+/* Left Column */
+article .columnar ~ h3,
+article .columnar ~ p {
+    float: left;
+    box-sizing: border-box;
+    padding-right: 1rem;
+    clear: both;
+}
+
+/* Right Column */
+article .columnar ~ .bar {
+    float: right;
+    clear: right;
+    margin-bottom: 1rem;
+}
+
+/* Reset */
+article .oneline ~ p,
+article .oneline ~ h3,
+article .oneline ~ .bar {
+    width: auto;
+    float: none;
+    clear: none;
+}
+
+.oneline {
+    clear: both;
+}
+
+@media print, screen and (max-width: 580px) {
+
+/*----------------------------
+    Two column layout media
+  ---------------------------*/
+  
+article .columnar ~ h3,
+article .columnar ~ p,
+article .columnar ~ .bar {
+    width: 100%;
+    float: none;
+    clear: none;
+}
+
+}
+
+.oneline ~ p {
+    font-style: normal;
+    font-size: 1rem;
+}
+</style>
+
+
+
 
 # This is purely a list of skills, not how I used tools.
 
@@ -36,8 +109,7 @@ My <a href="work-samples.md">work samples</a> show use cases.
 ---
 
 
-(NEED TWO COLUMN STYLE TO KEEP PROGRESS BARS ALIGNED.)
-
+<div class="columnar">
 
 
 <label>cGMP</label>
