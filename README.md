@@ -64,7 +64,7 @@ Hello!
 </h1>
 
 <center>
-<img src="linkedin-profile-pic-2023.jpg" />
+<img src="/images/linkedin-profile-pic-2023.jpg" />
 </center>
 
 <br>
