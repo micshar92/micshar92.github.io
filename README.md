@@ -59,7 +59,7 @@ Hello!
 </h1>
 
 <center>
-<img src="/_includes/linkedin-profile-pic-2023.jpg" height="100" />
+<img src="images/_includes/linkedin-profile-pic-2023.jpg" height="100" />
 </center>
 
 <br>
