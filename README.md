@@ -59,7 +59,7 @@ Hello!
 </h1>
 
 <center>
-![LinkedIn Profile pic 2023](https://user-images.githubusercontent.com/112581105/218575445-f943bfd4-63ab-4f02-9b12-f01332bcadda.jpg)
+![LinkedIn Profile pic 2023](/_includes/linkedin-profile-pic-2023.jpg)
 </center>
 
 <br>
@@ -87,12 +87,7 @@ Hello!
 
 📫 Email me at LINKEDINEMAILADDRESSHERE
 
+<br>
+<br>
 
-
-
-
-
-
-
-
-
+---

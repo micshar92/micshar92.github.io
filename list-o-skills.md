@@ -7,7 +7,7 @@ My <a href="work-samples.md">work samples</a> show use cases.
 <br>
 
 <h3>
-<center> Currently learning: DITA XML & Oxygen XML
+<center> Currently learning: CLI & Google Analytics
 </center>
 </h3>
 
@@ -22,10 +22,9 @@ My <a href="work-samples.md">work samples</a> show use cases.
 | Canva | <progress max="100" value="97"></progress> |
 | cGMP | <progress max="100" value="95"></progress> |
 | SOP | <progress max="100" value="95"></progress> |
-| process flow | <progress max="100" value="95"></progress> |
+| Process flow | <progress max="100" value="95"></progress> |
 | Markdown (dillinger.io) | <progress max="100" value="95"></progress> |
 | Google suite | <progress max="100" value="95"></progress> |
-| Industrial safety | <progress max="100" value="90"></progress> |
 | Blogging (knowledge base articles) | <progress max="100" value="90"></progress> |
 | Clickup | <progress max="100" value="90"></progress> |
 | Flowcharts (draw.io) | <progress max="100" value="90"></progress> |
@@ -37,11 +36,13 @@ My <a href="work-samples.md">work samples</a> show use cases.
 | Typography | <progress max="100" value="75"></progress> |
 | Content management | <progress max="100" value="75"></progress> |
 | Git and GitHub | <progress max="100" value="70"></progress> |
+| Industrial safety | <progress max="100" value="50"></progress> |
 | CSS | <progress max="100" value="50"></progress> |
 | Google Analytics | <progress max="100" value="50"></progress> |
 | Oxygen XML | <progress max="100" value="10"></progress> |
 | DITA XML | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
+| TinkerCAD | <progress max="100" value="1"></progress> |
 
 <br>
 
