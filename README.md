@@ -59,7 +59,8 @@ Hello!
 </h1>
 
 <center>
-<img src="images/_includes/linkedin-profile-pic-2023.jpg" height="100" />
+![Profile picture](linkedin-profile-pic-2023.jpg)
+<img src="linkedin-profile-pic-2023.jpg" height="100" />
 </center>
 
 <br>
