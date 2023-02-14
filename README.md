@@ -60,7 +60,7 @@ Hello!
 
 <center>
 ![Profile picture](linkedin-profile-pic-2023.jpg)
-<img src="linkedin-profile-pic-2023.jpg" height="100" />
+<img src="linkedin-profile-pic-2023.jpg" />
 </center>
 
 <br>
