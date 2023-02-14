@@ -59,7 +59,7 @@ Hello!
 </h1>
 
 <center>
-![LinkedIn Profile pic 2023](/_includes/linkedin-profile-pic-2023.jpg)
+![LinkedIn Profile pic 2023](micshar92.github.io/_includes/linkedin-profile-pic-2023.jpg)
 </center>
 
 <br>
