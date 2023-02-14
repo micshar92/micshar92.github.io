@@ -6,7 +6,7 @@
 	position: relative;
 	display: inline;
 	}
-.blue {
+.hello {
     color: blue;
     font-weight: 700;
     font-size: 30px;
@@ -22,6 +22,11 @@
 	display: block;
 	box-shadow: 5px 5px #eaeaea
 	}
+.section {
+	color: #211c18;
+	font-weight: 500;
+	font-size: 25px;
+}
 </style>
 
 
@@ -54,7 +59,7 @@
 
 ---
 
-<h1 class="blue">
+<h1 class="hello">
 Hello!
 </h1>
 
@@ -91,3 +96,89 @@ Hello!
 <br>
 
 ---
+
+<h2 class="section">About Me</h1>
+
+<br>
+
+<center>
+<img src="/images/bookshelf-for-portfolio.png" />
+</center>
+
+
+
+(absent on picture day: Butterick's Practical Typography)
+
+Then at the bottom are the these things (& more?)
+
+<br>
+
+## Book learning is great, but what about courses? 🎬
+
+I'm glad you asked. Here are my Udemy certificates:
+
+- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
+
+- Google Analytics Certification (and the Udemy course proof)
+
+- <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/"<a>Writing with Flair (New Edition)</a>
+
+- Project Management Fundamentals
+
+<br>
+
+(something that makes me "opinionated" because that's good)
+
+- piano
+- organic gardening
+- 10 years of 日本語
+- meditation
+- owning a dumbphone
+- fiction writing
+
+<br>
+<br>
+
+---
+
+<h2 class="section">Work Samples</h1>
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+---
+
+<h2 class="section">Skills</h1>
+
+
+
+
+
+
+
+<br>
+<br>
+
+---
+
+<h2 class="section">Contact Me</h1>
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
