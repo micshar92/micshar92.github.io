@@ -5,6 +5,7 @@
 	font-weight: 900;
 	position: relative;
 	display: inline;
+	text-decoration: underline;
 	}
 .hello {
     color: blue;
@@ -26,6 +27,12 @@
 	color: #211c18;
 	font-weight: 500;
 	font-size: 25px;
+}
+.learning {
+	font-weight: 500;
+	font-size: 25px;
+	background-color: yellow;
+	font-style: italic;
 }
 </style>
 
@@ -97,7 +104,7 @@ Hello!
 
 ---
 
-<h2 class="section">About Me</h1>
+<h2 class="section">About Me</h2>
 
 <br>
 
@@ -109,7 +116,7 @@ Hello!
 
 (absent on picture day: Butterick's Practical Typography)
 
-Then at the bottom are the these things (& more?)
+And I have stacks of unrelated books (I need a second bookshelf). Let's talk about anything here that interests you. My goal is another 12 books this year, from "I, Robot" to "One-straw Revolutionary."
 
 <br>
 
@@ -127,12 +134,13 @@ I'm glad you asked. Here are my Udemy certificates:
 
 <br>
 
-(something that makes me "opinionated" because that's good)
+Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or 瓜楓. 🪴
+(yes)
 
 - piano
 - organic gardening
 - 10 years of 日本語
-- meditation
+- meditation and yoga
 - owning a dumbphone
 - fiction writing
 
@@ -157,11 +165,54 @@ I'm glad you asked. Here are my Udemy certificates:
 
 <h2 class="section">Skills</h1>
 
+### This is purely a list of skills, not how I used tools.
 
+My <a href="work-samples.md">work samples</a> show use cases.
 
+<br>
+<br>
 
+<center>
+<p class="learning"> Currently learning: CLI & Google Analytics </p>
+</center>
 
+<br>
+<br>
 
+( *nothing is 100% because I always have more to learn* )
+
+| Skill | Experience |
+| ----- | ---------- |
+| Canva | <progress max="100" value="97"></progress> |
+| cGMP | <progress max="100" value="95"></progress> |
+| SOP | <progress max="100" value="95"></progress> |
+| Process flow | <progress max="100" value="95"></progress> |
+| Markdown (dillinger.io) | <progress max="100" value="95"></progress> |
+| Google suite | <progress max="100" value="95"></progress> |
+| Blogging (knowledge base articles) | <progress max="100" value="90"></progress> |
+| Clickup | <progress max="100" value="90"></progress> |
+| Flowcharts (draw.io) | <progress max="100" value="90"></progress> |
+| Snagit | <progress max="100" value="90"></progress> |
+| Wordpress | <progress max="100" value="90"></progress> |
+| Policies and procedures | <progress max="100" value="80"></progress> |
+| HTML | <progress max="100" value="75"></progress> |
+| Command line (CLI) | <progress max="100" value="75"></progress> |
+| Typography | <progress max="100" value="75"></progress> |
+| Content management | <progress max="100" value="75"></progress> |
+| Git and GitHub | <progress max="100" value="70"></progress> |
+| Industrial safety | <progress max="100" value="50"></progress> |
+| CSS | <progress max="100" value="50"></progress> |
+| Google Analytics | <progress max="100" value="50"></progress> |
+| Oxygen XML | <progress max="100" value="10"></progress> |
+| DITA XML | <progress max="100" value="1"></progress> |
+| Pandoc | <progress max="100" value="1"></progress> |
+| TinkerCAD | <progress max="100" value="1"></progress> |
+
+<br>
+
+I look forward to bettering my skills and usefulness with you.
+
+Contact me with the links below.
 
 <br>
 <br>
