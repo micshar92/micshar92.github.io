@@ -56,9 +56,9 @@
 
 <div class="header">
 <center>
-<a href="work-samples.md">Work samples</a>
-<a href="list-o-skills.md">Skills</a>
-<a href="contact-me.md">Contact me</a>
+<a href="#work-samples">Work samples</a>
+<a href="#skills">Skills</a>
+<a href="#contact-me">Contact me</a>
 </center>
 </div>
 
@@ -104,7 +104,7 @@ Hello!
 
 ---
 
-<h2 class="section">About Me</h2>
+<h2 class="section" id="about">About Me</h2>
 
 <br>
 
@@ -148,7 +148,7 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 ---
 
-<h2 class="section">Work Samples</h2>
+<h2 class="section" id="work-samples">Work Samples</h2>
 
 
 
@@ -172,7 +172,7 @@ My <a href="work-samples.md">work samples</a> show use cases.
 <br>
 
 <center>
-<p class="learning"> Currently learning: CLI</p>
+<p class="learning"> Currently learning: command line interface (CLI)</p>
 </center>
 
 <br>
@@ -195,15 +195,14 @@ My <a href="work-samples.md">work samples</a> show use cases.
 | Flowcharts (draw.io) | <progress max="100" value="90"></progress> |
 | Snagit | <progress max="100" value="90"></progress> |
 | Wordpress | <progress max="100" value="90"></progress> |
+| Google Analytics | <progress max="100" value="90"></progress> |
 | Policies and procedures | <progress max="100" value="80"></progress> |
 | HTML | <progress max="100" value="75"></progress> |
-| Command line (CLI) | <progress max="100" value="75"></progress> |
 | Typography | <progress max="100" value="75"></progress> |
 | Content management | <progress max="100" value="75"></progress> |
 | Git and GitHub | <progress max="100" value="70"></progress> |
-| Industrial safety | <progress max="100" value="50"></progress> |
 | CSS | <progress max="100" value="50"></progress> |
-| Google Analytics | <progress max="100" value="50"></progress> |
+| Command line (CLI) | <progress max="100" value="25"></progress> |
 | Oxygen XML | <progress max="100" value="10"></progress> |
 | DITA XML | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
@@ -220,7 +219,7 @@ Contact me with the links below.
 
 ---
 
-<h2 class="section">Contact Me</h1>
+<h2 class="section" id="contact-me">Contact Me</h1>
 
 
 
