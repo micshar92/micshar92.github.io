@@ -114,7 +114,7 @@ Hello!
 
 
 
-(absent on picture day: Butterick's Practical Typography)
+(absent on picture day: *Butterick's Practical Typography*, *The Gotham Grammarian*)
 
 And I have stacks of unrelated books (I need a second bookshelf). Let's talk about anything here that interests you. My goal is another 12 books this year, from "I, Robot" to "One-straw Revolutionary."
 
@@ -124,9 +124,9 @@ And I have stacks of unrelated books (I need a second bookshelf). Let's talk abo
 
 I'm glad you asked. Here are my Udemy certificates:
 
-- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
+- <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see my work samples below for coursework)
 
-- Google Analytics Certification (and the Udemy course proof)
+- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
 
 - <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/"<a>Writing with Flair (New Edition)</a>
 
@@ -135,7 +135,6 @@ I'm glad you asked. Here are my Udemy certificates:
 <br>
 
 Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or 瓜楓. 🪴
-(yes)
 
 - piano
 - organic gardening
@@ -149,7 +148,7 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 ---
 
-<h2 class="section">Work Samples</h1>
+<h2 class="section">Work Samples</h2>
 
 
 
@@ -163,7 +162,7 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 ---
 
-<h2 class="section">Skills</h1>
+<h2 class="section">Skills</h2>
 
 ### This is purely a list of skills, not how I used tools.
 
@@ -173,13 +172,15 @@ My <a href="work-samples.md">work samples</a> show use cases.
 <br>
 
 <center>
-<p class="learning"> Currently learning: CLI & Google Analytics </p>
+<p class="learning"> Currently learning: CLI</p>
 </center>
 
 <br>
 <br>
 
 ( *nothing is 100% because I always have more to learn* )
+
+<br>
 
 | Skill | Experience |
 | ----- | ---------- |
