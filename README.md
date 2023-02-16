@@ -93,9 +93,9 @@ Hello!
 
 🌱 See my skills page for software I've learned, coding languages I use, and nifty progress bars.
 
-📄 And for the condensed version, read my résumé.
+📄 And for the condensed version, <a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</a>
 
-🔌 Or network with me on LinkedIn here.
+🔌 Or network with me on LinkedIn.
 
 📫 Email me at LINKEDINEMAILADDRESSHERE
 
@@ -124,11 +124,11 @@ And I have stacks of unrelated books (I need a second bookshelf). Let's talk abo
 
 I'm glad you asked. Here are my Udemy certificates:
 
-- <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see my work samples below for coursework)
+- <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
 
 - <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
 
-- <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/"<a>Writing with Flair (New Edition)</a>
+- <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/">Writing with Flair (New Edition)</a>
 
 - Project Management Fundamentals
 
@@ -172,15 +172,13 @@ My <a href="work-samples.md">work samples</a> show use cases.
 <br>
 
 <center>
-<p class="learning"> Currently learning: command line interface (CLI)</p>
+<p class="learning"> Currently learning: Oxygen & DITA XML</p>
 </center>
 
 <br>
 <br>
 
 ( *nothing is 100% because I always have more to learn* )
-
-<br>
 
 | Skill | Experience |
 | ----- | ---------- |
@@ -203,14 +201,15 @@ My <a href="work-samples.md">work samples</a> show use cases.
 | Git and GitHub | <progress max="100" value="70"></progress> |
 | CSS | <progress max="100" value="50"></progress> |
 | Command line (CLI) | <progress max="100" value="25"></progress> |
-| Oxygen XML | <progress max="100" value="10"></progress> |
-| DITA XML | <progress max="100" value="1"></progress> |
+| Oxygen XML | <progress max="100" value="5"></progress> |
+| DITA XML | <progress max="100" value="5"></progress> |
+| LESS | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
 | TinkerCAD | <progress max="100" value="1"></progress> |
 
 <br>
 
-I look forward to bettering my skills and usefulness with you.
+I look forward to bettering my skills and intelligence with you.
 
 Contact me with the links below.
 
@@ -221,14 +220,11 @@ Contact me with the links below.
 
 <h2 class="section" id="contact-me">Contact Me</h1>
 
+<br>
 
+LINKEDINEMAIL
 
-
-
-
-
-
-
+<a href="https://github.com/micshar92">micshar92 on GitHub</a>
 
 <br>
 <br>
