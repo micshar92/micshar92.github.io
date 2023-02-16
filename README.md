@@ -218,7 +218,7 @@ Contact me with the links below.
 
 ---
 
-<h2 class="section" id="contact-me">Contact Me</h1>
+<h2 class="section" id="contact-me">Contact Me</h2>
 
 <br>
 
