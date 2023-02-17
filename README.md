@@ -36,6 +36,10 @@
 }
 </style>
 
+<head>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DJE02LDJ6H"></script>
@@ -77,8 +81,10 @@ Hello!
 <br>
 
 <div class="snippet">
-⚠️
-<p>If you're reading this page, I'm looking for a job. :)</p>
+<svg class="caution-triangle" aria-hidden="false" focusable="false" role="img" title="notice" class="icon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+<i class="fa fa-warning"></i>
+
+<span class="with-icon--before with-icon--larger">If you're reading this page, I'm looking for a job. :)</span>
 </div>
 
 <br>
@@ -222,9 +228,9 @@ Contact me with the links below.
 
 <br>
 
-LINKEDINEMAIL
+* LINKEDINEMAIL
 
-<a href="https://github.com/micshar92">micshar92 on GitHub</a>
+* <a href="https://github.com/micshar92">micshar92 on GitHub</a>
 
 <br>
 <br>
