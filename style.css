@@ -1,0 +1,32 @@
+* { margin: 0;
+    padding: 0;
+}
+
+html {
+    padding: 2em;
+      
+      color: #211c18
+      hyphens: 1;
+      word-wrap: break-word;
+  }
+
+  h2, h3 {
+    color: black;
+  }
+
+  h1, h2, h3 {
+    font: Avenir, sans-serif;
+  }
+
+  p {
+    font: Palatino, serif;
+    color: #424242;
+  }
+  
+  blockquote {
+    display: block;
+    font-size: 80%;
+    border-left: 5px solid #333;
+    padding-left: .75em;
+    font-style: italic;
+  }
