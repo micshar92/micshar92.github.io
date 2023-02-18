@@ -159,6 +159,31 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 
 
+1. TWHQ
+
+
+2. SOP
+
+
+
+3. Taming Your Tech
+
+
+E-book | Blog article
+:---:|:---:
+![introduction chapter](/images/quests-introduction.png) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.png)
+
+**Type of documentation: knowledge base / blog articles, email newsletter, white paper-like PDF**
+
+*Tools used: Wordpress.com, Canva, SEO (through Ahrefs, RankMath, and answerthepublic.com), Reddit, Instagram, Pinterest, and ConvertKit*
+
+
+
+
+
+
+
+
 
 
 
