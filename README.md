@@ -94,13 +94,13 @@ Hello!
 
 🏭 I aim to be a manufacturing or industrial technical writer, because I'D PREFER TO WORK ON SITE 😮
 
-📚 To learn more about me, books I've read, and courses I've taken, check my About page.
+📚 To learn more about me, books I've read, and courses I've taken, check the About section below.
 
-🧶 My work samples page includes my technical writing  certification and projects I built to get it.
+🧶 The work samples heading includes my technical writing  certification and projects I built to get it.
 
-🌱 See my skills page for software I've learned, coding languages I use, and nifty progress bars.
+🌱 See the skills heading for software I've learned, coding languages I use, and nifty progress bars.
 
-📄 And for the condensed version, <a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</a>
+📄 And for the condensed version, <u><a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</u></a>
 
 🔌 Or network with me on LinkedIn.
 
@@ -133,15 +133,15 @@ I'm glad you asked. Here are my Udemy certificates:
 
 - <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
 
-- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
-
 - <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/">Writing with Flair (New Edition)</a>
+
+- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
 
 - Project Management Fundamentals
 
 <br>
 
-Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or 瓜楓. 🪴
+Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or urikaede 瓜楓. 🪴
 
 - piano
 - organic gardening
@@ -173,7 +173,7 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 ### This is purely a list of skills, not how I used tools.
 
-My <a href="work-samples.md">work samples</a> show use cases.
+My work samples show use cases.
 
 <br>
 <br>
@@ -208,8 +208,8 @@ My <a href="work-samples.md">work samples</a> show use cases.
 | Git and GitHub | <progress max="100" value="70"></progress> |
 | CSS | <progress max="100" value="50"></progress> |
 | Command line (CLI) | <progress max="100" value="25"></progress> |
-| Oxygen XML | <progress max="100" value="5"></progress> |
-| DITA XML | <progress max="100" value="5"></progress> |
+| Oxygen XML | <progress max="100" value="15"></progress> |
+| DITA XML | <progress max="100" value="15"></progress> |
 | LESS | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
 | TinkerCAD | <progress max="100" value="1"></progress> |
