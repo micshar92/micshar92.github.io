@@ -1,6 +1,6 @@
 <head>
-<link href="style.css" rel="stylesheet"></link>
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></link>
+<link href="style.css" rel="stylesheet" />
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
 </head>
 
 
@@ -121,15 +121,60 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 <h2 class="section" id="work-samples">Work Samples</h2>
 
+<br>
+
 <h3>1. Technical Writer HQ Certification</h3>
 
+Proposal | Case study | Market research document
+:---:|:---:|:---:
+![Proposal document](/images/proposal-sample.png) | ![Case study sample](/images/case-study-sample.png) | ![Market research document sample](/images/mrd-sample.png)
+
+(<a href="https://docs.google.com/document/d/1cURepf7rdBqy9kxtrp1ouzGIKuryFxNYqglevNgR0oM/preview">link to full projects</a>)
+
+**Types of documentation: proposal, case study, knowledge base article, FAQ, meeting notes, market research document (MRD), objectives and key results (OKR)**
+
+*Tools used: Google suite, Clickup, typography*
+
+My capstone project for the TWHQ course consists of a series of seven 1-2 page documents. It follows the story of a fictional "leader in small engines and landscaping equipment," Midori, as they expand from gas-only to the solar products market.
+
+**Problem**: Midori's founder took a controversial stance against electric batteries, citing the environmental impact and inhuman working conditions of lithium and cobalt mines. So instead, Midori's scientists developed a sodium-ion battery and jumped into the solar market. This solved the problem of their often-called-generic products, but the new sodium-ion battery needed extensive documentation and care guidelines. All their new solar products included these.
+
+For one, the sodium-ion batteries lasted longer and charged faster, but they shrank horsepower. This made them excellent for Midori's flagship solar product, a 15,000 Watt backup generator (2). However, it made lawnmowers a challenge (1), as well as their line of frontloaders (5).
+
+Customers applauded the greenness, but they needed knowledge base articles (3), an XML-based copy-and-paste FAQ (4), and easy-to-understand data on sodium-ion science.
+
+**Solution**: Fictionally, I worked for them. Our department focused on Midori's "common person" appeal and intermediate customer base. (6)
+
+- I simplified engineering schematics and SME science into lay speak. The marketing and customer service teams also worked with me to ensure a beginner-friendly, empathetic tone that addressed customer confusion points.
+
+- I ensured the language was clear and plain. Many of Midori's customers spoke Spanish and one of our OKRs (7) was to improve Spanish-speaking customer satisfaction.
+
+- My background in breaking down complex science into actionable, short instructions helped gain and retain intermediate customers.
+
+Overall, Midori snapped off a chunk of the solar market without sounding pompous or elevated. That was the tone their founders disdained and railed against by founding their own business.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>2. SOP</h3>
 
 
-2. SOP
 
 
 
-3. Taming Your Tech
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>3. Taming Your Tech</h3>
 
 
 E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e0302e19c">link to full book</a>) | Blog article (<a href="https://workdrive.zoho.com/file/beuid58d639c48ad24322ad74c0ef535e68a9">link to full article</a>)
@@ -163,16 +208,6 @@ And lastly, few avenues gave me opportunities to find my audience. I worked with
 3. **based on science**
 
 4. glowing comments from email subscribers, saying I helped them waste fewer daily hours in the Internet labyrinth
-
-
-
-
-
-
-
-
-
-
 
 <br>
 <br>
