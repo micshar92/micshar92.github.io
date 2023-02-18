@@ -1,7 +1,6 @@
-<link href="style.css" rel="stylesheet"></link>
-
 <head>
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href="style.css" rel="stylesheet"></link>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></link>
 </head>
 
 
@@ -250,7 +249,7 @@ Contact me with the links below.
 * <a href="https://www.reddit.com/user/TamingYourTech/">TamingYourTech on Reddit</a>
 
 <br>
-> "The fool think he is wise, but the wise man knows himself to be a fool."<br>
+> "The fool thinks he is wise, but the wise man knows himself to be a fool."<br>
 -- William Shakespeare, As You Like It
 
 <br>
