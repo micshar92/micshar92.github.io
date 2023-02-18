@@ -292,5 +292,9 @@ Contact me with the links below.
 * <a href="https://www.reddit.com/user/TamingYourTech/">TamingYourTech on Reddit</a>
 
 <br>
+> "The fool think he is wise, but the wise man knows himself to be a fool."<br>
+- William Shakespeare, As You Like It
+
+<br>
 <br>
 <br>
