@@ -83,7 +83,8 @@ Hello!
 <div class="snippet">
 <svg class="caution-triangle" aria-hidden="false" focusable="false" role="img" title="notice" class="icon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
 <i class="fa fa-warning"></i>
-
+</svg>
+⚠️
 <span class="with-icon--before with-icon--larger">If you're reading this page, I'm looking for a job. :)</span>
 </div>
 
