@@ -1,45 +1,4 @@
 <link href="style.css" rel="stylesheet"></link>
-<style>
-.header {
-	font-size: 22px;
-	font-weight: 900;
-	position: relative;
-	display: inline;
-	text-decoration: underline;
-	}
-.hello {
-    color: blue;
-    font-weight: 700;
-    font-size: 30px;
-	}
-.snippet {
-	margin-bottom: 20px;
-	padding: 35px;
-	position: relative;
-	background-color: #fdfdfd;
-	border-radius: 20px;
-	border: 1px solid #e9e9ea;
-	border-left: 8px solid #ff492c;
-	display: block;
-	box-shadow: 5px 5px #eaeaea
-	}
-.section {
-	color: #211c18;
-	font-weight: 500;
-	font-size: 25px;
-}
-.learning {
-	font-weight: 500;
-	font-size: 25px;
-	background-color: yellow;
-	font-style: italic;
-}
-.worksample {
-	color: blue;
-	font-weight: 500;
-	font-size: 22px;
-}
-</style>
 
 <head>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -163,9 +122,8 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 
 <h2 class="section" id="work-samples">Work Samples</h2>
 
+<h3>1. Technical Writer HQ Certification</h3>
 
-
-1. TWHQ
 
 
 2. SOP
