@@ -25,8 +25,8 @@ html {
   
   blockquote {
     display: block;
-    font-size: 80%;
-    border-left: 5px solid #333;
+    font-size: 125%;
+    border-left: 5px solid #ffd359;
     padding-left: .75em;
     font-style: italic;
   }

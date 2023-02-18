@@ -293,7 +293,7 @@ Contact me with the links below.
 
 <br>
 > "The fool think he is wise, but the wise man knows himself to be a fool."<br>
-- William Shakespeare, As You Like It
+-- William Shakespeare, As You Like It
 
 <br>
 <br>
