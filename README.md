@@ -34,6 +34,11 @@
 	background-color: yellow;
 	font-style: italic;
 }
+.worksample {
+	color: blue;
+	font-weight: 500;
+	font-size: 22px;
+}
 </style>
 
 <head>
@@ -60,8 +65,9 @@
 
 <div class="header">
 <center>
-<a href="#work-samples">Work samples</a>
-<a href="#skills">Skills</a>
+<a href="#about-me">About me</a> |
+<a href="#work-samples">Work samples</a> |
+<a href="#skills">Skills</a> |
 <a href="#contact-me">Contact me</a>
 </center>
 </div>
@@ -111,7 +117,7 @@ Hello!
 
 ---
 
-<h2 class="section" id="about">About Me</h2>
+<h2 class="section" id="about-me">About Me</h2>
 
 <br>
 
@@ -169,13 +175,37 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 3. Taming Your Tech
 
 
-E-book | Blog article
+E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e0302e19c">link to full book</a>) | Blog article (<a href="https://workdrive.zoho.com/file/beuid58d639c48ad24322ad74c0ef535e68a9">link to full article</a>)
 :---:|:---:
 ![introduction chapter](/images/quests-introduction.png) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.png)
 
-**Type of documentation: knowledge base / blog articles, email newsletter, white paper-like PDF**
+**Type of documentation: knowledge base / blog articles, email newsletter, white paper-like PDFs**
 
-*Tools used: Wordpress.com, Canva, SEO (through Ahrefs, RankMath, and answerthepublic.com), Reddit, Instagram, Pinterest, and ConvertKit*
+*Tools used: Wordpress.com, Canva, SEO (through Ahrefs, RankMath), keyword research, Reddit, Instagram, Pinterest, and ConvertKit*
+
+From March 2021 to December 2022 I ran the Wordpress-based blog Taming Your Tech.
+
+**Problem**: two hundred thousand Redditors on *reddit.com/r/nosurf* claimed they had Internet addiction, a hydra that often included pornography, social media, news, and/or video game addiction.
+
+I struggled with many of these for years, so I had scoured scientific data for tips to manage screen time. The Redditors and I were frustrated by the flippant tone and "this is a problem but we offer no solutions" approach of media, trolls, extremists, and shills.
+
+**Solution**: Thus, I read stacks of scientific papers on addiction and distilled them into brief, science-backed, solution-focused articles. No rambling... that is, with practice. (My audience spent enough time online.)
+
+This meant one short-but-packed article a week, and two Instagram and Pinterest posts. It also culminated in two 16–18 page white paper-like how-to PDF guides, plus two 60-81 page e-books.
+
+I did research and Q&A on Reddit (you can still find me @ <a href="https://www.reddit.com/user/TamingYourTech/">u/TamingYourTech</a>), as well as Instagram and Pinterest. From these I collected data for keywords/phrases, which I used to write blog articles.
+
+Over time, I learned a nonjudgmental, empathetic tone, with a reader focus. Opinion-spouting from an ivory tower didn't bring in page views.
+
+And lastly, few avenues gave me opportunities to find my audience. I worked with them to strategize writings, but if I could do it over again, I'd offer my solutions more courageously despite those who accused me of profiteering off addicts.
+
+1. **solution-oriented**
+
+2. **brief**
+
+3. **based on science**
+
+4. glowing comments from email subscribers, saying I helped them waste fewer daily hours in the Internet labyrinth
 
 
 
@@ -187,14 +217,15 @@ E-book | Blog article
 
 
 
-
-
+<br>
+<br>
+<br>
 <br>
 <br>
 
 ---
 
-<h2 class="section">Skills</h2>
+<h2 class="section" id="skills">Skills</h2>
 
 ### This is purely a list of skills, not how I used tools.
 
@@ -257,6 +288,8 @@ Contact me with the links below.
 * LINKEDINEMAIL
 
 * <a href="https://github.com/micshar92">micshar92 on GitHub</a>
+
+* <a href="https://www.reddit.com/user/TamingYourTech/">TamingYourTech on Reddit</a>
 
 <br>
 <br>
