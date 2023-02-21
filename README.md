@@ -151,7 +151,7 @@ Customers applauded the greenness, but they needed knowledge base articles (3), 
 
 - My background in breaking down complex science into actionable, short instructions helped gain and retain intermediate customers.
 
-Overall, Midori snapped off a chunk of the solar market without sounding pompous or elevated. That was the tone their founders disdained and railed against by founding their own business.
+Overall, Midori snapped off a chunk of the solar market without sounding pompous or elevated. That was the tone their founders disdained and railed against in competitors.
 
 <br>
 <br>
@@ -159,9 +159,23 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 <br>
 <br>
 
-<h3>2. SOP</h3>
+<h3>2. SOP: Post-sort Remainder Storage Procedures</h3>
 
+imagehere
 
+**Type of documentation: SOP**
+
+*Tools used: Google Suite, draw.io (flowchart), oXygen XML*
+
+I was never a manager at FedEx, but I spoke to a lot of them. They griped that at the end of the sort, after conveyors stopped transporting packages to loading areas, their loaders left packages behind. In turn, *their* boss then rebuked them for adding "where's my package" calls to the support team.
+
+A lot of reasons caused this, from lack of loader training to loaders leaving early and irreverently. And since the managers stayed two hours later to tackle leftover problems in other parts of the warehouse, they didn't have time to come back to the packages abandoned on the docks.
+
+I suggested a "roundup" after the sort ended, and to delay the other (although critical) post-sort tasks.
+
+While it wasn't implemented due to several variables, my last two managers did the gist of it. I contributed when I could, too, and we likely reduced angry customer calls— increasing retention— because of it.
+
+This SOP was originally a Google Doc, but the warnings, table, and other bits I felt worked better in XML. Reuse seems easier to fulfill cGMP requirements and reduce confusion caused by different wording across documents.
 
 
 
@@ -181,7 +195,7 @@ E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e03
 :---:|:---:
 ![introduction chapter](/images/quests-introduction.png) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.png)
 
-**Type of documentation: knowledge base / blog articles, email newsletter, white paper-like PDFs**
+**Types of documentation: knowledge base / blog articles, email newsletter, white paper-like PDFs**
 
 *Tools used: Wordpress.com, Canva, SEO (through Ahrefs, RankMath), keyword research, Reddit, Instagram, Pinterest, and ConvertKit*
 
