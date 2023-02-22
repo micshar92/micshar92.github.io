@@ -161,9 +161,11 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 
 <h3>2. SOP: Post-sort Remainder Storage Procedures</h3>
 
-imagehere
+Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing">link to original</a>) | Improved XML doc (<a href="_blank">XML download</a>)
+:---:|:---:
+![Google Doc: "Post-sort Remainder Storage Procedures"](/images/SOP-original.png) | sorry nothing
 
-**Type of documentation: SOP**
+**Type of documentation: Standard Operating Procedure**
 
 *Tools used: Google Suite, draw.io (flowchart), oXygen XML*
 
