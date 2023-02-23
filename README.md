@@ -93,9 +93,11 @@ And I have stacks of unrelated books (I need a second bookshelf). Let's talk abo
 
 ## Book learning is great, but what about courses? 🎬
 
-I'm glad you asked. Here are my Udemy certificates:
+I'm glad you asked. Here are my Udemy and otherwise certificates:
 
 - <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
+
+- <a href="_blank">DITA XML certification from Scriptorium, makers of oXygen XML</a>
 
 - <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/">Writing with Flair (New Edition)</a>
 
@@ -105,7 +107,7 @@ I'm glad you asked. Here are my Udemy certificates:
 
 <br>
 
-Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or urikaede (melon maple). 🪴
+Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, known in Japanese as *urikaede* (melon maple). 🪴
 
 - piano
 - organic gardening
@@ -139,7 +141,7 @@ Proposal | Case study | Market research document
 
 My capstone project for the TWHQ course consists of a series of seven 1-2 page documents. It follows the story of a fictional "leader in small engines and landscaping equipment," Midori, as they expand from gas-only to the solar products market.
 
-**Problem**: Midori's founder took a controversial stance against electric batteries, citing the environmental impact and inhuman working conditions of lithium and cobalt mines. So instead, Midori's scientists developed a sodium-ion battery and jumped into the solar market. This solved the problem of their often-called-generic products, but the new sodium-ion battery needed extensive documentation and care guidelines. All their new solar products included these.
+**Problem**: Midori's founder took a controversial stance against electric batteries, citing the environmental impact and inhuman working conditions of lithium and cobalt mines. So instead, Midori's scientists developed a sodium-ion battery and jumped into the solar market afterward. This solved the problem of their often-called-generic products, but the new sodium-ion battery needed extensive documentation and care guidelines. All their new solar products included these.
 
 For one, the sodium-ion batteries lasted longer and charged faster, but they shrank horsepower. This made them excellent for Midori's flagship solar product, a 15,000 Watt backup generator (2). However, it made lawnmowers a challenge (1), as well as their line of frontloaders (5).
 
