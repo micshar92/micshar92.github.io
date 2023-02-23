@@ -105,7 +105,7 @@ I'm glad you asked. Here are my Udemy certificates:
 
 <br>
 
-Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or urikaede 瓜楓. 🪴
+Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer crataegifolium, or urikaede (melon maple). 🪴
 
 - piano
 - organic gardening
@@ -113,6 +113,8 @@ Oh, and one day I want to grow and sell Japanese Maples. My favorite is Acer cra
 - meditation and yoga
 - owning a dumbphone
 - fiction writing
+
+And I like to use Latin and foreign languages within reason. People understand etc., ergo, and i.e., not to mention karaoke and en masse! Though my writing teachers tell me not to use them... sigh.
 
 <br>
 <br>
