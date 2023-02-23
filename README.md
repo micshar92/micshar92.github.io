@@ -15,7 +15,7 @@
 </script>
 
 # Michael Sharber: Technical Writer for hire
-## (and small engine specialist)
+### (and small engine specialist)
 
 ---
 
@@ -203,7 +203,7 @@ E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e03
 
 **Types of documentation: knowledge base / blog articles, email newsletter, white paper-like PDFs**
 
-*Tools used: Wordpress.com, Canva, SEO (through Ahrefs, RankMath), keyword research, Reddit, Instagram, Pinterest, and ConvertKit*
+*Tools used: Wordpress.com, Canva, SEO (through Ahrefs and RankMath), keyword research, Reddit, Instagram, Pinterest, and ConvertKit*
 
 From March 2021 to December 2022 I ran the Wordpress-based blog Taming Your Tech.
 
@@ -227,7 +227,7 @@ And lastly, few avenues gave me opportunities to find my audience. I worked with
 
 3. **based on science**
 
-4. glowing comments from email subscribers, saying I helped them waste fewer daily hours in the Internet labyrinth
+4. glowing comments from email subscribers who said I helped them waste fewer daily hours in the Internet labyrinth
 
 <br>
 <br>
@@ -276,11 +276,11 @@ My work samples show use cases.
 | Git and GitHub | <progress max="100" value="70"></progress> |
 | CSS | <progress max="100" value="50"></progress> |
 | Command line (CLI) | <progress max="100" value="25"></progress> |
+| DITA XML | <progress max="100" value="25"></progress> |
 | Oxygen XML | <progress max="100" value="15"></progress> |
-| DITA XML | <progress max="100" value="15"></progress> |
 | LESS | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
-| TinkerCAD | <progress max="100" value="1"></progress> |
+
 
 <br>
 
