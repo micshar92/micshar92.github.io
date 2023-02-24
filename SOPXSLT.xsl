@@ -4,6 +4,9 @@
     <html>
         <body>
             <h2></h2>
+            <table border="1">
+                <th color="#660099"></th>
+            </table>
         </body>
     </html>
 </xsl:template>
