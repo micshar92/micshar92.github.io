@@ -10,7 +10,7 @@ h2 {
     text-decoration: bold;
 }
 
-p {
+*[class ~= "topic/p"] {
     font-family: "Palatino", Times, serif;
     line-height: 1.3;
     hyphens: none;
@@ -38,4 +38,9 @@ thead {
 
 .hazardstatement {
     text-decoration: bold, italic;
+}
+
+@page {
+    font-size: 12pt;
+    font-family: "Helvetica Neue", "Roboto", sans-serif;
 }

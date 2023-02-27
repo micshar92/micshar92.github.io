@@ -1,6 +1,10 @@
 <publishing-template>
 	<name>Print PDF</name>
 	<description>For my portfolio's sample SOP.</description>
+	<author>
+		<name>Michael Sharber</name>
+		<email>micshar1992@gmail.com</email>
+	</author>
 
 	<pdf>
 		<tags>
@@ -9,15 +13,11 @@
 		</tags>
 
 		<resources>
-			<css file="https://github.com/micshar92/micshar92.github.io/blob/main/SOP-style.css">
+			<css file="style.css" />
 		</resources>
-
-		<author>
-			<name>Michael Sharber</name>
-			<email>micshar1992@gmail.com</email>
-
+		
 		<xslt>
-			<extension id="SOPXSLT" file="https://github.com/micshar92/micshar92.github.io/blob/main/SOPXSLT.xsl"
+			<extension id="SOPXSLT" file="SOPXSLT.xsl" />
 		</xslt>
 
 	</pdf>
