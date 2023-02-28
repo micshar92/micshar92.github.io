@@ -67,7 +67,7 @@ I live in Murfreesboro, Tennessee right now, but I'm willing to move to Knoxvill
 
 📄 And for the condensed version, <u><a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</a></u>
 
-🔌 Or <a href="https://www.linkedin.com/in/micshar92/">network with me on LinkedIn.</a>
+🔌 Or <a href="https://www.linkedin.com/in/micshar92/" class="link">network with me on LinkedIn.</a>
 
 📫 Email me at LINKEDINEMAILADDRESSHERE
 
@@ -96,13 +96,13 @@ And I have stacks of unrelated books (I need a second bookshelf). Let's talk abo
 
 I'm glad you asked. Here are my Udemy and otherwise certificates:
 
-- <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
+- <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf" class="link">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
 
-- <a href="_blank">DITA XML certification from Scriptorium, makers of oXygen XML</a>
+- <a href="_blank" class="link">DITA XML certification from Scriptorium, makers of oXygen XML</a>
 
-- <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/">Writing with Flair (New Edition)</a>
+- <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/" class="link">Writing with Flair (New Edition)</a>
 
-- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/">Git and GitHub for Writers</a>
+- <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/" class="link">Git and GitHub for Writers</a>
 
 - Project Management Fundamentals
 
@@ -134,7 +134,7 @@ Proposal | Case study | Market research document
 :---:|:---:|:---:
 ![Proposal document](/images/proposal-sample.jpg) | ![Case study sample](/images/case-study-sample.jpg) | ![Market research document sample](/images/mrd-sample.jpg)
 
-(<a href="https://docs.google.com/document/d/1cURepf7rdBqy9kxtrp1ouzGIKuryFxNYqglevNgR0oM/preview">link to full projects</a>)
+(<a href="https://docs.google.com/document/d/1cURepf7rdBqy9kxtrp1ouzGIKuryFxNYqglevNgR0oM/preview" class="link">link to full projects</a>)
 
 **Types of documentation: proposal, case study, knowledge base article, FAQ, meeting notes, market research document (MRD), objectives and key results (OKR)**
 
@@ -167,7 +167,7 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 <h3>2. SOP: Post-sort Remainder Storage Procedures</h3>
 
 
-Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing">link to original</a>) | (page 2) | Transformed XML PDF (<a href="_blank">XML download</a>)
+Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing" class="link">link to original</a>) | (page 2) | Transformed XML PDF (<a href="_blank" class="link">XML download</a>)
 :---:|:---:|:---:
 ![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/XML-in-progress.jpg) |
 
@@ -201,7 +201,7 @@ This SOP was originally a Google Doc, but the warnings, table, and other bits I 
 <h3>3. Taming Your Tech</h3>
 
 
-E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e0302e19c">link to full book</a>) | Blog article (<a href="https://workdrive.zoho.com/file/beuid58d639c48ad24322ad74c0ef535e68a9">link to full article</a>)
+E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e0302e19c" class="link">link to full book</a>) | Blog article (<a href="https://workdrive.zoho.com/file/beuid58d639c48ad24322ad74c0ef535e68a9" class="link">link to full article</a>)
 :---:|:---:
 ![introduction chapter](/images/quests-introduction.jpg) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.jpg)
 
@@ -219,7 +219,7 @@ I struggled with many of these for years, so I had scoured scientific data for t
 
 This meant one short-but-packed article a week, and two Instagram and Pinterest posts. It also culminated in two 16–18 page white paper-like how-to PDF guides, plus two 60-81 page e-books.
 
-I did research and Q&A on Reddit (you can still find me @ <a href="https://www.reddit.com/user/TamingYourTech/">u/TamingYourTech</a>), as well as Instagram and Pinterest. From these I collected data for keywords/phrases, which I used to write blog articles.
+I did research and Q&A on Reddit (you can still find me @ <a href="https://www.reddit.com/user/TamingYourTech/" class="link">u/TamingYourTech</a>), as well as Instagram and Pinterest. From these I collected data for keywords/phrases, which I used to write blog articles.
 
 Over time, I learned a nonjudgmental, empathetic tone, with a reader focus. Opinion-spouting from an ivory tower didn't attract readers.
 
@@ -303,9 +303,9 @@ Contact me with the links below.
 
 * LINKEDINEMAIL
 
-* <a href="https://github.com/micshar92">micshar92 on GitHub</a>
+* <a href="https://github.com/micshar92" class="link">micshar92 on GitHub</a>
 
-* <a href="https://www.reddit.com/user/TamingYourTech/">TamingYourTech on Reddit</a>
+* <a href="https://www.reddit.com/user/TamingYourTech/" class="link">TamingYourTech on Reddit</a>
 
 <br>
 > "The fool thinks he is wise, but the wise man knows himself to be a fool."<br>

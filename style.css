@@ -40,10 +40,10 @@ html {
     text-decoration: underline;
     }
 
-    .hello {
-      color: blue;
-      font-weight: 700;
-      font-size: 30px;
+  .hello {
+    color: blue;
+    font-weight: 700;
+    font-size: 30px;
     }
 
   .snippet {
@@ -75,4 +75,8 @@ html {
     color: blue;
     font-weight: 500;
     font-size: 22px;
+  }
+
+  .link {
+    text-decoration: underline;
   }
