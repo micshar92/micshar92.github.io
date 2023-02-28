@@ -83,7 +83,7 @@ Hello!
 <img src="/images/bookshelf-for-portfolio.jpg" />
 </center>
 
-
+<br>
 
 (absent on picture day: *Butterick's Practical Typography*, *The Gotham Grammarian*)
 
@@ -183,6 +183,8 @@ I suggested a "roundup" after the sort ended, and to delay the other (although c
 While it wasn't implemented due to several variables, my last two managers did the gist of it. I contributed when I could, too, and we likely reduced angry customer calls— increasing retention— because of it.
 
 This SOP was originally a Google Doc, but the warnings, table, and other bits I felt worked better in XML. Reuse seems easier to fulfill cGMP requirements and reduce confusion caused by different wording across documents.
+
+(That said, I'm still figuring out the advanced parts of XML. Come back when I have a finished PDF for you.)
 
 
 
