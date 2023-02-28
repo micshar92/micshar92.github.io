@@ -56,7 +56,8 @@ Hello!
 
 🚩 Hi, I’m Michael Sharber.
 
-🏭 I aim to be a manufacturing or industrial technical writer, because I'D PREFER TO WORK ON SITE 😮
+🏭 I aim to be a manufacturing or industrial technical writer, because I'D PREFER TO WORK ON SITE 😮 <br>
+I live in Murfreesboro, Tennessee right now, but I'm willing to move to Knoxville; Huntsville, Alabama; Bowling Green, Kentucky; or a reasonable distance into a neighboring state.
 
 📚 To learn more about me, books I've read, and courses I've taken, check the About section below.
 
@@ -66,7 +67,7 @@ Hello!
 
 📄 And for the condensed version, <u><a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</a></u>
 
-🔌 Or network with me on LinkedIn.
+🔌 Or <a href="https://www.linkedin.com/in/micshar92/">network with me on LinkedIn.</a>
 
 📫 Email me at LINKEDINEMAILADDRESSHERE
 
