@@ -64,7 +64,7 @@ Hello!
 
 🌱 See the skills heading for software I've learned, coding languages I use, and nifty progress bars.
 
-📄 And for the condensed version, <u><a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</u></a>
+📄 And for the condensed version, <u><a href="https://docs.google.com/document/d/1nLrqRFwU_fUUEsJQTJxtr_X3_CByAg9Yi2QqdOujeuQ/edit?usp=sharing">read my résumé.</a></u>
 
 🔌 Or network with me on LinkedIn.
 
@@ -217,7 +217,7 @@ This meant one short-but-packed article a week, and two Instagram and Pinterest 
 
 I did research and Q&A on Reddit (you can still find me @ <a href="https://www.reddit.com/user/TamingYourTech/">u/TamingYourTech</a>), as well as Instagram and Pinterest. From these I collected data for keywords/phrases, which I used to write blog articles.
 
-Over time, I learned a nonjudgmental, empathetic tone, with a reader focus. Opinion-spouting from an ivory tower didn't bring in page views.
+Over time, I learned a nonjudgmental, empathetic tone, with a reader focus. Opinion-spouting from an ivory tower didn't attract readers.
 
 And lastly, few avenues gave me opportunities to find my audience. I worked with them to strategize writings, but if I could do it over again, I'd offer my solutions more courageously despite those who accused me of profiteering off addicts.
 
@@ -268,8 +268,8 @@ My work samples show use cases.
 | Flowcharts (draw.io) | <progress max="100" value="90"></progress> |
 | Snagit | <progress max="100" value="90"></progress> |
 | Wordpress | <progress max="100" value="90"></progress> |
-| Google Analytics | <progress max="100" value="90"></progress> |
 | Policies and procedures | <progress max="100" value="80"></progress> |
+| Google Analytics | <progress max="100" value="75"></progress> |
 | HTML | <progress max="100" value="75"></progress> |
 | Typography | <progress max="100" value="75"></progress> |
 | Content management | <progress max="100" value="75"></progress> |
