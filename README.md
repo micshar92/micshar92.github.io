@@ -80,7 +80,7 @@ Hello!
 <br>
 
 <center>
-<img src="/images/bookshelf-for-portfolio.png" />
+<img src="/images/bookshelf-for-portfolio.jpg" />
 </center>
 
 
@@ -131,7 +131,7 @@ And I like to use Latin and foreign languages within reason. People understand e
 
 Proposal | Case study | Market research document
 :---:|:---:|:---:
-![Proposal document](/images/proposal-sample.png) | ![Case study sample](/images/case-study-sample.png) | ![Market research document sample](/images/mrd-sample.png)
+![Proposal document](/images/proposal-sample.jpg) | ![Case study sample](/images/case-study-sample.jpg) | ![Market research document sample](/images/mrd-sample.jpg)
 
 (<a href="https://docs.google.com/document/d/1cURepf7rdBqy9kxtrp1ouzGIKuryFxNYqglevNgR0oM/preview">link to full projects</a>)
 
@@ -165,9 +165,10 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 
 <h3>2. SOP: Post-sort Remainder Storage Procedures</h3>
 
-Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing">link to original</a>) | Improved XML doc (<a href="_blank">XML download</a>)
-:---:|:---:
-![Google Doc: "Post-sort Remainder Storage Procedures"](/images/SOP-original.png) | sorry nothing
+
+Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing">link to original</a>) | (page 2) | Transformed XML PDF (<a href="_blank">XML download</a>)
+:---:|:---:|:---:
+![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/xml-in-progress.jpg) |
 
 **Type of documentation: Standard Operating Procedure**
 
@@ -199,7 +200,7 @@ This SOP was originally a Google Doc, but the warnings, table, and other bits I 
 
 E-book (<a href="https://workdrive.zoho.com/file/rp6pu33cf75cb033048fca774b47e0302e19c">link to full book</a>) | Blog article (<a href="https://workdrive.zoho.com/file/beuid58d639c48ad24322ad74c0ef535e68a9">link to full article</a>)
 :---:|:---:
-![introduction chapter](/images/quests-introduction.png) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.png)
+![introduction chapter](/images/quests-introduction.jpg) | ![Blog article title: "What does FOMO mean? Materialism, envy, and social media"](/images/what-does-fomo-mean.jpg)
 
 **Types of documentation: knowledge base / blog articles, email newsletter, white paper-like PDFs**
 
