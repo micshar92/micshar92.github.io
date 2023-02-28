@@ -168,7 +168,7 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 
 Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing">link to original</a>) | (page 2) | Transformed XML PDF (<a href="_blank">XML download</a>)
 :---:|:---:|:---:
-![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/xml-in-progress.jpg) |
+![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/XML-in-progress.jpg) |
 
 **Type of documentation: Standard Operating Procedure**
 
