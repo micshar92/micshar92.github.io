@@ -185,7 +185,7 @@ While it wasn't implemented due to several variables, my last two managers did t
 
 This SOP was originally a Google Doc, but the warnings, table, and other bits I felt worked better in XML. Reuse seems easier to fulfill cGMP requirements and reduce confusion caused by different wording across documents.
 
-(That said, I'm still figuring out the advanced parts of XML. Come back when I have a finished PDF for you.)
+(That said, after days of research, I've found no way to insert anything beyond a title on the title page. cGMP requires "date modified," "date approved," and author name. I couldn't aesthetically insert these on the second page either, or anywhere. But... Adobe Acrobat makes it super easy to insert after I publish to PDF from oXygen XML.)
 
 
 
