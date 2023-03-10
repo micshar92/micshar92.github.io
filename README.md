@@ -167,9 +167,9 @@ Overall, Midori snapped off a chunk of the solar market without sounding pompous
 <h3>2. SOP: Post-sort Remainder Storage Procedures</h3>
 
 
-Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing" class="link">link to original</a>) | (page 2) | Transformed XML PDF (<a href="_blank" class="link">XML download</a>)
+Original Google Doc (<a href="https://docs.google.com/document/d/1sE46qPDOlXfgQV3rNFD5T0VdqnwjIN6oDmDdSIIlfUI/edit?usp=sharing" class="link">link to original</a>) | (page 2) | Transformed XML PDF
 :---:|:---:|:---:
-![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/XML-in-progress.jpg) |
+![Google Doc SOP 1](/images/SOP-original.jpg) | ![Google Doc SOP 2](/images/SOP-original-2.jpg) | ![XML SOP](/images/XML_output_sample.jpg) | 
 
 **Type of documentation: Standard Operating Procedure**
 
@@ -187,11 +187,13 @@ This SOP was originally a Google Doc, but the warnings, table, and other bits I 
 
 That said, after weeks of learning DITA, it didn't work well for this application. DITA didn't allow me to put "last modified," "approved on," and "effective on" dates on the title page. Or **anything** but the title on the title page. Best I could do was several footnootes on the second page, which was unprofessional and poor quality per cGMP regulations.
 
-After several days of extreme frustration and an existential crisis, I decided it would be better to add this to the PDF post-output using Adobe Acrobat.
+After several days of explosive frustration and an existential crisis, I decided it would be better to add those dates to the PDF post-output using Adobe Acrobat.
 
 And I hear that many companies don't use DITA because it's hard to find or train experts in it, plus it's expensive and time-consuming to set up. Although it excels in structured content, I find it's missing useful features and takes too long to accomplish much of anything.
 
-DITA XML < Madcap Flare < Google Docs or Microsoft Word < Markdown
+I still can use the rudiments.
+
+DITA XML < Madcap Flare < Google Docs or Microsoft Word < **Markdown + HTML + CSS**
 
 
 
