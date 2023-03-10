@@ -189,7 +189,7 @@ That said, after weeks of learning DITA, it didn't work well for this applicatio
 
 After several days of extreme frustration and an existential crisis, I decided it would be better to add this to the PDF post-output using Adobe Acrobat.
 
-And I hear that many companies don't use DITA because it's hard to find or train experts in it, plus it's expensive and time-consuming to set up.
+And I hear that many companies don't use DITA because it's hard to find or train experts in it, plus it's expensive and time-consuming to set up. Although it excels in structured content, I find it's missing useful features and takes too long to accomplish much of anything.
 
 DITA XML < Madcap Flare < Google Docs or Microsoft Word < Markdown
 
