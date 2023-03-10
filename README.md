@@ -185,7 +185,13 @@ While it wasn't implemented due to several variables, my last two managers did t
 
 This SOP was originally a Google Doc, but the warnings, table, and other bits I felt worked better in XML. Reuse seems easier to fulfill cGMP requirements and reduce confusion caused by different wording across documents.
 
-(That said, after days of research, I've found no way to insert anything beyond a title on the title page. cGMP requires "date modified," "date approved," and author name. I couldn't aesthetically insert these on the second page either, or anywhere. But... Adobe Acrobat makes it super easy to insert after I publish to PDF from oXygen XML.)
+That said, after weeks of learning DITA, it didn't work well for this application. DITA didn't allow me to put "last modified," "approved on," and "effective on" dates on the title page. Or **anything** but the title on the title page. Best I could do was several footnootes on the second page, which was unprofessional and poor quality per cGMP regulations.
+
+After several days of extreme frustration and an existential crisis, I decided it would be better to add this to the PDF post-output using Adobe Acrobat.
+
+And I hear that many companies don't use DITA because it's hard to find or train experts in it, plus it's expensive and time-consuming to set up.
+
+DITA XML < Madcap Flare < Google Docs or Microsoft Word < Markdown
 
 
 
