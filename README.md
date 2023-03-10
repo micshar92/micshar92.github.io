@@ -259,7 +259,7 @@ My work samples show use cases.
 <br>
 
 <center>
-<p class="learning"> Currently learning: Oxygen & DITA XML</p>
+<p class="learning"> Currently learning: command line interface (CLI)</p>
 </center>
 
 <br>
