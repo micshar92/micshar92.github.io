@@ -290,6 +290,7 @@ My work samples show use cases.
 | Command line (CLI) | <progress max="100" value="25"></progress> |
 | DITA XML | <progress max="100" value="25"></progress> |
 | Oxygen XML | <progress max="100" value="15"></progress> |
+| Adobe InDesign | <progress max="100" value="1"></progress> |
 | LESS | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
 
