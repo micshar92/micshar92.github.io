@@ -69,7 +69,7 @@ I live in Murfreesboro, Tennessee right now, but I'm willing to move to Knoxvill
 
 🔌 Or <a href="https://www.linkedin.com/in/micshar92/" class="link">network with me on LinkedIn.</a>
 
-📫 Email me at LINKEDINEMAILADDRESSHERE
+📫 Email me at micshar1992@gmail.com
 
 <br>
 <br>
@@ -98,13 +98,11 @@ I'm glad you asked. Here are my Udemy and otherwise certificates:
 
 - <a href="https://technicalwriterhq.com/wp-content/uploads/2023/02/Michael-S.pdf" class="link">Technical Writer HQ certification</a> (see "Work Samples" below for links to coursework)
 
-- <a href="_blank" class="link">DITA XML certification from Scriptorium, makers of oXygen XML</a>
-
 - <a href="https://www.udemy.com/certificate/UC-f5cd2fee-e0ec-4cff-b94c-b424b8bbf212/" class="link">Writing with Flair (New Edition)</a>
 
 - <a href="https://www.udemy.com/certificate/UC-f90ba1f0-10dd-458f-b6d9-a2420e93738a/" class="link">Git and GitHub for Writers</a>
 
-- Project Management Fundamentals
+- <a href="https://www.udemy.com/certificate/UC-dd5b6c33-ea73-40f2-9d46-c68cc7b6dd19/" class="link">Project Management Fundamentals</a>
 
 <br>
 
@@ -293,6 +291,7 @@ My work samples show use cases.
 | Adobe InDesign | <progress max="100" value="1"></progress> |
 | LESS | <progress max="100" value="1"></progress> |
 | Pandoc | <progress max="100" value="1"></progress> |
+| Supply chain! | <progress max="100" value="15"</progress> |
 
 
 <br>
@@ -310,7 +309,7 @@ Contact me with the links below.
 
 <br>
 
-* LINKEDINEMAIL
+* micshar1992@gmail.com
 
 * <a href="https://github.com/micshar92" class="link">micshar92 on GitHub</a>
 
