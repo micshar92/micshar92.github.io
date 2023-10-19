@@ -1,6 +1,6 @@
-Michael Sharber's technical writing portfolio
+# Michael Sharber's technical writing portfolio
 
-[micshar92.github.io](https://micshar92.github.io)
+## [micshar92.github.io](https://micshar92.github.io)
 
 =========================
 
