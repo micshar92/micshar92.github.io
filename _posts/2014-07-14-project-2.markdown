@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+link: ./../pdf/Status.pdf
+img: Status.jpg
+alt: Monthly docs status report
+description: Monthly docs status report (keeps managers and stakeholders informed)
+extra-link:
+---
