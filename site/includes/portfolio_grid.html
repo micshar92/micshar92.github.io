@@ -1,0 +1,34 @@
+<br>
+<p class="skills2">This page contains samples from my professional portfolio.</p>
+<p class="skills2">If anything interests you, feel free to email me at <a class="link" href="mailto:micshar1992@gmail.com">micshar1992@gmail.com</a>.</p>
+<p class="skills2">You can also <a href="./../pdf/CV.pdf" target="_blank" class="link">  read my résumé here.</a></p>
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+  <div class="container portfolio-flex-grid">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Portfolio</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="portfolio-flex-row">
+      {% for post in site.posts %}
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="{{ post.link }}" class="portfolio-link" target="_blank">
+          <div class="caption">
+            <div class="caption-content">
+              <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/portfolio/{{ post.img }}" class="img-responsive bordered" alt="{{ post.alt }}">
+        </a>
+        <br>
+        <p>{{ post.description }}</p>
+        <p>{{ post.extra-link }}</p>
+        <br>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
