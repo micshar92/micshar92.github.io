@@ -202,7 +202,6 @@ th {
     font-weight: bolder;
     font-size: 20px;
     padding: 5px 20px 5px;
-    text-align: center;
 }
 
 tr {
@@ -226,6 +225,7 @@ td {
 #portfolio .portfolio-item {
     right: 0;
     margin: -50 0 15px;
+    border: 3px solid black;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -301,8 +301,9 @@ td {
   }
 
   .bordered {
-    border: 3px solid black;
+    border-bottom: 3px solid black;
   }
+
   /* A large grid might need four columns on widescreen layouts */
   /* @media (min-width: 1380px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {

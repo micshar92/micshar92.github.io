@@ -5,5 +5,5 @@ link: ./../pdf/OpenBoxes.pdf
 img: OpenBoxes.jpg
 alt: OpenBoxes API authentication guide
 description: OpenBoxes API authentication guide
-extra-link: <a class="link" href="https://github.com/openboxes/openboxes/pull/4341">(GitHub pull request for proof)</a>
+extra-link: <a class="link" href="https://github.com/openboxes/openboxes/pull/4341">(GitHub pull request)</a>
 ---
