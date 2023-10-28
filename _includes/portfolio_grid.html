@@ -23,10 +23,12 @@
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive bordered" alt="{{ post.alt }}">
         </a>
-        <br>
-        <p>{{ post.description }}</p>
-        <p>{{ post.extra-link }}</p>
-        <br>
+        <div class="portfolio-background">
+          <br>
+          <p class="portfolio-p">{{ post.description }}</p>
+          <p>{{ post.extra-link }}</p>
+          <br>
+        </div>
       </div>
       {% endfor %}
     </div>

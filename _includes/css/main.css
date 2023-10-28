@@ -274,6 +274,23 @@ td {
     z-index: 2;
 }
 
+.portfolio-background {
+    background: #220c10;
+}
+
+.portfolio-p {
+    color: white;
+}
+
+.portfolio-a {
+    color: #f3c538;
+    text-decoration: underline;
+}
+
+.portfolio-a:hover {
+    color: #aa8310;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -291,12 +308,14 @@ td {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
       max-width: 49%;
+      background: #220c10;
     }
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 32%;
       max-width: 32%;
+      background: #220c10;
     }
   }
 
