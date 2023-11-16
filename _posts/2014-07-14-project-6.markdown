@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 4
-link: ./../pdf/FAQ.pdf
-img: FAQ.jpg
-alt: FAQ
-description: FAQ for solar generator
-extra-link: 
+link: ./../pdf/PDF_Windows.pdf
+img: AnthemScore.jpg
+alt: AnthemScore User Guide cover
+description: AnthemScore PDF User Guide
+extra-link: <a class="portfolio-a" href="https://workdrive.zohoexternal.com/folder/p0rv9d3503d3f4a8e42c7bd723a979a0ea221"> Raw MadCap Flare project file (trial)</a>
 ---
