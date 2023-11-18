@@ -5,5 +5,5 @@ link: ./../pdf/PDF_Windows.pdf
 img: AnthemScore.jpg
 alt: AnthemScore User Guide cover
 description: AnthemScore PDF User Guide
-extra-link: <a class="portfolio-a" href="https://workdrive.zohoexternal.com/folder/p0rv9d3503d3f4a8e42c7bd723a979a0ea221"> Raw MadCap Flare project file (trial)</a>
+extra-link: <a class="portfolio-a" href="https://workdrive.zohoexternal.com/folder/p0rv9d3503d3f4a8e42c7bd723a979a0ea221">MadCap Flare project file (HTML5 & PDF)</a>
 ---
