@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 5
-link: ./../pdf/Release_notes.pdf
-img: Release_notes.jpg
-alt: App release notes
-description: App release notes
+link: ./../pdf/FAQ.pdf
+img: FAQ.jpg
+alt: FAQ for solar generator
+description: FAQ for solar generator
 extra-link: 
 ---
