@@ -291,6 +291,10 @@ td {
     color: #aa8310;
 }
 
+.portfolio-y {
+    color: #f3c538;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;

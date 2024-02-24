@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 8
 link: 
 img: Coming_soon.jpg
 alt: Coming soon!
 description: IT onboarding checklist
-extra-link: (coming soon)
+extra-link: <p style="color:#f3c538;">Coming soon</p>
 ---
