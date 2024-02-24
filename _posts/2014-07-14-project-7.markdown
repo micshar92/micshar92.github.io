@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 7
+link: 
+img: Coming_soon.jpg
+alt: Coming soon!
+description: IT onboarding checklist
+extra-link: (coming soon)
+---
