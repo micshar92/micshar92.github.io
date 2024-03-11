@@ -5,5 +5,5 @@ link: ./../pdf/Runbook.pdf
 img: Runbook.jpg
 alt: Sample security runbook snippet
 description: Cybersecurity runbook procedure
-extra-link: <p style="color:#f3c538;">Coming soon</p>
+extra-link:
 ---
