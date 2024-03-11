@@ -4,6 +4,6 @@ modal-id: 6
 link: ./../pdf/Status.pdf
 img: Status.jpg
 alt: Monthly doc status report
-description: Monthly doc status report (keeps managers and stakeholders informed)
+description: Monthly docs status report (keeps managers and stakeholders informed)
 extra-link:
 ---
