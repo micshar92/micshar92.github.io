@@ -4,6 +4,6 @@ modal-id: 3
 link: ./../pdf/SOP.pdf
 img: FEGSOP.jpg
 alt: FedEx Ground SOP
-description: FedEx Ground SOP
+description: FedEx Ground SOP (now out-of-date and invalid)
 extra-link: 
 ---
